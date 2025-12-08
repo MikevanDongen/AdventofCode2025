@@ -1,0 +1,4 @@
+root = true
+
+[inputs/*]
+trim_trailing_whitespace = false
